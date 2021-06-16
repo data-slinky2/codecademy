@@ -92,7 +92,7 @@ print(my_array * 3)
 
 ### Accessing/Indexing
 
-<img src="array_index.png" width="350">
+<img src="/img/array_index.png" width="350">
 
 We access the elements of an array using square brackets. When you’re accessing array elements, remember that indexing in NumPy starts at 0 so an index of 0 is the first element, index of 1 is second element, and so on.
 
@@ -244,13 +244,13 @@ Now that you've learned about NumPy arrays, lets test your knowledge.
 
 <b>Q1:</b> Create the following 3D array.
 
-<img src="q1_assessment.png" width="100">
+<img src="/img/q1_assessment.png" width="100">
 
 <b>Q2:</b> Slice the array to obtain a 1D array consisting of [9, 10, 11].
 
 <b>Q3:</b> Reshape the array into the following array.
 
-<img src="q3_assessment.png" width="150">
+<img src="/img/q3_assessment.png" width="150">
 
 ### Solutions
 
