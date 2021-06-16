@@ -1,15 +1,3 @@
-```python
-from IPython.core.display import display, HTML
-
-display(
-    HTML("<style>.prompt{width: 0px; min-width: 0px; visibility: collapse}</style>")
-)
-```
-
-
-<style>.prompt{width: 0px; min-width: 0px; visibility: collapse}</style>
-
-
 # Introduction to NumPy Arrays for Data Scientists
 
 Learn what is a NumPy array, why do we use them in data science, and how to get started.
